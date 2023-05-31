@@ -27,7 +27,7 @@ To implement Huffman coding to compress the data using Python.
 ### Developed by : Shyam Kumar A
 ### Reg.no : 212221230098
 
-``
+```
 ### Get the input String
 
 string = 'from robomaster import robot'
